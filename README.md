@@ -1,6 +1,9 @@
 # ScanScreen
 
 To install the required modules (cv2, keyboard, numpy) run this command: 
+    
+    
+    
     -> May need to run as root
       -> pip install -r requirements.txt
       
