@@ -1,5 +1,22 @@
 # ScanScreen
 
+This current version is listed as 0. At time of created 2/26/23 there has only been one day of development so far.
+===========================================================================================================
+What I plan to add:
+
+- Improve looks and 'flow' of the application
+- Better outline of 'motion' detected in Screenshot Overlay window. As well as longer persistant rectangles.
+- Notication counter that can count 'events'
+- Menu with toggleable features.
+
+- More as well. Likely a .net based version for windows users so they wont have to install a bunch of python reqs..
+
+
+
+
+
+
+
 To install the required modules (cv2, keyboard, numpy) run this command: 
     
     
