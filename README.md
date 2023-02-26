@@ -9,7 +9,7 @@ To install the required modules (cv2, keyboard, numpy) run this command:
       
     -> Alternatively if you are using Visual Studio 2019
       -> Open the .py file in VS2019 then in the top center section, next to the python environment version, there is a small icon shaped like a present.
-            Click that button. From there a new window should appear and you will be able to search and add the requirements list in the .txt file manually. 
+            Click that button. From there a new window should appear and you will be able to search and add the requirements listed in the .txt file manually. 
             
             
  TO RUN
