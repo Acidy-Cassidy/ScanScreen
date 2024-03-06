@@ -1,4 +1,0 @@
-https://api.cryptoquant.com/v1/eth/market-data/price-ohlcv?window=10min&exchange=binance&limit=100 
-https://api.cryptoquant.com/v1/eth/market-data/open-interest?window=min&exchange=binance
-https://api.cryptoquant.com/v1/eth/market-data/taker-buy-sell-stats?window=min&exchange=binance 
-https://api.cryptoquant.com/v1/eth/market-data/funding-rates?window=min&exchange=binance
